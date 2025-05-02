@@ -45,9 +45,3 @@ To develop lightweight, propulsion-free levitation systems and safe transport de
 ## About Me
 
 I'm **Adeline**, a 17-year-old inventor from India and a Stanford astrophysics aspirant. My goal is to work at **SpaceX** and build my own aerospace company. These projects are the foundation of that journey.
-
-## Contact
-
-- GitHub: [Your GitHub Link]
-- Email: [Your Email Here]
-- Portfolio (Coming soon)
