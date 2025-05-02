@@ -1,0 +1,45 @@
+# Adeline's Independent Space Engineering Research
+
+## Overview
+
+This repository contains open-access simulations, schematics, and research summaries for four innovative aerospace projects led by **Vaishnavi Shrivastav (Adeline)**, a high school researcher and future Stanford astrophysics candidate.
+
+## Projects Included
+
+### 1. **Meglev Project** — *Space-Grade Electromagnetic Levitation System*
+
+- Designed a magnetically levitating platform using YBCO superconductors.
+- Simulated vertical lift of 58–120 kg payloads using zero propulsion.
+- Mars-gravity simulation showed 40% improved efficiency.
+- Ideal for space elevator and Moon/Mars transport use.
+
+### 2. **HSMLS Project** — *Human Superconducting Levitation Mobility Suit*
+
+- Wearable hover suit using cooled superconductors and internal battery packs.
+- No jets, wings, or external boosters.
+- Targeted for astronaut mobility in low/zero gravity environments.
+
+### 3. **Starship Fault Fix Proposal** — *Thermal Hull, Control Failures, and Launch Safety*
+
+- Independent flaw analysis of SpaceX Starship test flights.
+- Proposed improvements for Raptor overheating, booster detachment, and heat shielding.
+
+### 4. **Mars Drone Research** — *Red Planet Flight Stability and Dust Interference*
+
+- Design & simulation of a Mars-capable drone using adaptive rotor physics.
+- Focused on sustained flight in low pressure & dusty conditions.
+
+## Technologies Used
+
+- **Python (NumPy, Random, Time)**
+- **Scientific Simulation & AI-assisted Modeling**
+- **Superconductor Cooling Theory (YBCO @ 77K)**
+- **Space Environment Emulation**
+
+## Purpose
+
+To develop lightweight, propulsion-free levitation systems and safe transport designs for future space colonization and exploration.
+
+## About Me
+
+I'm **Adeline**, a 17-year-old inventor from India and a Stanford astrophysics aspirant. My goal is to work at **SpaceX** and build my own aerospace company. These projects are the foundation of that journey.
